@@ -1,0 +1,98 @@
+{
+    "homeScreen" : {
+        "homeTitle": "My Lists",
+        "addNewListTitle": "Add new list",
+        "addListTitle": "Add list",
+        "check": "Check",
+        "deleteQuestion": "Do you want to delete selected items?",
+        "element": "item",
+        "elements": "items",
+        "zeroSelected": "0 items selected",
+        "noItems": "You don't have any list yet",
+        "deleteAllQuestion": "Do you want to delete ALL items?"
+    },
+    "remindersScreen": {
+        "remindersTitle": "Reminders",
+        "addReminder": "Create",
+        "addNewReminderTitle": "Add new reminder",
+        "noItems": "You don't have any reminder yet",
+        "deleteAll": "Delet all"
+    },
+    "addReminderScreen": {
+        "title": "Title",
+        "createReminder": "Create reminder",
+        "selectDate": "Select date:",
+        "selectTime": "Select time:",
+        "newReminder": "New Reminder",
+        "notificationTitle": "Reminder:",
+        "selectFreq": "Repeat",
+        "never": "Never",
+        "hourly": "Hourly",
+        "daily": "Daily",
+        "weekly": "Weekly"
+    },
+    "suggestModal": {
+        "selectActivity": "Select activity type",
+        "addRecommendTitle": "Add recommended tasks"
+    },
+    "detailsScreen": {
+        "suggest": "Suggestions",
+        "create": "Create",
+         "editList": "Edit List"
+    },
+    "addListScreen": {
+        "title": "Title",
+        "newList": "New list",
+        "selectImage": "Select image",
+        "addFromGallery": "Add from gallery",
+        "createList": "Create List"
+    },
+    "addItemModal": {
+        "title": "Add Task",
+        "quantity": "Quantity",
+        "itemName": "Name",
+        "namePlaceholder": "Item name or description"
+    },
+    "addCategoryModal": {
+        "addCategoryTitle": "Add Category",
+        "categoryName": "Name",
+        "addCategoryPlaceholder": "Category name"
+    },
+    "common": {
+        "attention": "Attention",
+        "cancel": "Cancel",
+        "close": "Close",
+        "add": "Add",
+        "done": "Done",
+        "save": "Save",
+        "mustTitle": "You must add a title",
+        "noElements": "You don't have items",
+        "edit": "Edit",
+        "delete": "Delete",
+        "removeList": "Do you want to remove the list?",
+        "pending": "pending",
+        "pendings": "pendings",
+        "update": "Update",
+        "check": "Check"
+    },
+    "welcomeModal": {
+        "previous": "Previous",
+        "next": "Next",
+        "finish": "Finish",
+        "welcome": "Welcome to Lizt",
+        "welcomeDesc": "Create lists using predetermined images or your own photos.",
+        "select": "Select",
+        "selectDesc": "We offer numerous suggested lists so you don't have to create them yourself.",
+        "delete": "Delete",
+        "deleteDesc": "Easily swipe or select the lists you want to delete.",
+        "reorder": "Reorder",
+        "reorderDesc": "Press and hold an item to move it and organize your lists."
+    },
+    "settingScreen": {
+        "title": "Settings",
+        "darkMode": "Dark mode",
+        "lightMode": "Light mode",
+        "switchSpanish": "Switch to spanish",
+        "bugReport": "Report a bug"
+    }
+}
