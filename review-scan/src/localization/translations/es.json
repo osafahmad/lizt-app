@@ -1,0 +1,99 @@
+{
+    "homeScreen" : {
+        "homeTitle": "Mis listas",
+        "addNewListTitle": "Agregar nueva lista",
+        "addListTitle": "Agregar lista",
+        "check": "Marcar",
+        "deleteQuestion": "¿Deseas eliminar los elementos seleccionados?",
+        "element": "elemento",
+        "elements": "elementos",
+        "zeroSelected": "0 elementos seleccionados",
+        "noItems": "No tienes listas creadas",
+        "deleteAllQuestion": "¿Deseas eliminar TODOS los elementos?"
+    },
+    "remindersScreen": {
+        "remindersTitle": "Recordatorios",
+        "addReminder": "Crear",
+        "addNewReminderTitle": "Agregar nuevo recordatorio",
+        "noItems": "No tienes recordatorios creados",
+         "deleteAll": "Eliminar todo"
+    },
+    "addReminderScreen": {
+        "title": "Título",
+        "createReminder": "Crear Recordatorio",
+        "selectDate": "Selecciona la fecha:",
+        "selectTime": "Selecciona la hora:",
+        "newReminder": "Nuevo recordatorio",
+        "notificationTitle": "Recordatorio:",
+        "selectFreq": "Repetir: ",
+        "never": "Nunca",
+        "hourly": "Cada hora",
+        "daily": "Diario",
+        "weekly": "Cada semana"
+    },
+    "suggestModal": {
+        "selectActivity": "Selecciona el tipo de actividad",
+        "addRecommendTitle": "Tareas recomendadas"
+    },
+    "detailsScreen": {
+        "suggest": "Sugerencias",
+        "create": "Crear",
+        "editList": "Editar Lista"
+    },
+    "addCategoryModal": {
+        "addCategoryTitle": "Agregar categoría",
+        "categoryName": "Name",
+        "addCategoryPlaceholder": "Nombre de la categoría"
+    },
+    "addListScreen": {
+        "title": "Título",
+        "newList": "Nueva lista",
+        "selectImage": "Selecionar Imagen",
+        "addFromGallery": "Aregar de la galería",
+        "createList": "Crear Lista"
+    },
+    "addItemModal": {
+        "title": "Agregar Tarea",
+        "quantity": "Cantidad",
+        "itemName": "Nombre",
+        "namePlaceholder": "Agrega el nombre del objeto o tarea"
+    },
+    "common": {
+        "attention": "Atención",
+        "cancel": "Cancelar",
+        "close": "Cerrar",
+        "add": "Agregar",
+        "done": "Listo",
+        "save": "Guardar",
+        "mustTitle": "Debes agregar un título",
+        "noElements": "Aún no has agregado elementos",
+        "edit": "Editar",
+        "delete": "Eliminar",
+        "removeList": "¿Deseas eliminar esta lista?",
+        "pending": "pendiente",
+        "pendings": "pendientes",
+        "update": "Actualizar",
+        "check": "Marcar",
+        "minorDate" :"La fecha y hora tienen que ser mayor a la actual"
+    },
+    "welcomeModal": {
+        "previous": "Anterior",
+        "next": "Siguiente",
+        "finish": "Finalizar",
+        "welcome": "Bienvenido a Lizt",
+        "welcomeDesc": "Elabora listas utilizando imágenes predeterminadas o tus propias fotografías.",
+        "select": "Selecciona",
+        "selectDesc": "Ofrecemos numerosas listas sugeridas para que no tengas que crearlas tú.",
+        "delete": "Elimina",
+        "deleteDesc": "Desliza o selecciona fácilmente las listas que desees eliminar.",
+        "reorder": "Reordena",
+        "reorderDesc": "Mantén presionado un elemento para moverlo y reorganizar tus listas."
+    },
+    "settingScreen": {
+        "title": "Configuración",
+        "darkMode": "Modo oscuro",
+        "lightMode": "Modo claro",
+        "switchSpanish": "Cambiar a inglés",
+        "bugReport": "Reportar un error"
+    }
+}
